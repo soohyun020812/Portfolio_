@@ -18,6 +18,7 @@
 
 ### 사용 기술 스택
 - Django
+- Django Rest Framework
 - Python
 - ajax
 - githib
