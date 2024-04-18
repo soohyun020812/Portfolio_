@@ -287,7 +287,7 @@ erDiagram
 >찜한 운동
 ![마이페이지  마 - 찜한 운동](https://github.com/soohyun020812/Portfolio_/assets/131852352/018c8cd5-291b-4771-8dc8-06a0b6a97fab)
 >계정 탈퇴
-![마이페이지  마 - 계정 탈퇴](https://github.com/soohyun020812/Portfolio_/assets/131852352/98b48d2d-6e20-4c2b-b125-1a59873a7031)
+![마이페이지  마 - 계정 탈퇴 (1)](https://github.com/soohyun020812/Portfolio_CodeFit/assets/131852352/044cc168-c47a-4eb5-81fe-da3148b72cac)
 
 >**운동 정보** <br>
 >운동 정보 전체
