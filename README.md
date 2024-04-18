@@ -275,7 +275,7 @@ erDiagram
 ```
 
 ### 📏 와이어프레임
->**마이페이지**
+>**마이페이지** <br>
 >마이페이지 클릭 시
 ![마이페이지  마 - 마이페이지 클릭 시](https://github.com/soohyun020812/Portfolio_/assets/131852352/21ef29e5-58bb-4039-a7e3-06b22d5d225c)
 >내 프로필
@@ -289,7 +289,7 @@ erDiagram
 >계정 탈퇴
 ![마이페이지  마 - 계정 탈퇴](https://github.com/soohyun020812/Portfolio_/assets/131852352/98b48d2d-6e20-4c2b-b125-1a59873a7031)
 
->**운동 정보**
+>**운동 정보** <br>
 >운동 정보 전체
 ![운동 정보와 건강정보  운 - 운동정보 전체](https://github.com/soohyun020812/Portfolio_/assets/131852352/77334283-aedd-4373-8972-36efcb883473)
 >운동 정보 상세
@@ -297,7 +297,7 @@ erDiagram
 >관련 운동 추천 상세
 ![운동 정보와 건강정보  운 - 관련 운동 추천 상세](https://github.com/soohyun020812/Portfolio_/assets/131852352/388eab9e-144a-46a0-85f5-cd00cec2005c)
 
->**커뮤니티**
+>**커뮤니티** <br>
 >커뮤니티 전체
 ![24 04 02 커뮤니티 와이어프레임  커 - 게시판 전체](https://github.com/soohyun020812/Portfolio_/assets/131852352/29fb467e-ccec-4b80-9a66-6e1758578266)
 >커뮤니티 게시글
